@@ -1,0 +1,65 @@
+.header {
+    background-color: thistle;
+    color: purple;
+    font-size: 1.2em;
+    border: solid rgb(133, 123, 133);
+    margin: auto;
+    padding: 0.5%;
+    text-align: center;
+    font-style: italic;
+}
+
+#a1, #a3{
+    text-align: justify;
+    background-color: whitesmoke;
+    padding-left: 2em;
+    padding-right: 2em;
+    text-decoration: none;
+}
+
+#a2, #a4{
+    text-align: justify;
+    background-color: violet;
+    color: white;
+    padding-left: 2em;
+    padding-right: 2em;
+    text-decoration: none;
+}
+
+#a5, #a6, #a7{
+    background-color: teal;
+    color: white;
+    padding-left: 2em;
+    padding-right: 2em;
+    text-decoration: none;
+}
+
+
+
+.r1 , .r3{
+    margin: 2%;
+    padding: 2%;
+    background-color:rgba(147, 248, 214,0.7);
+    text-align: center;
+    font-family: cursive;
+}
+
+.r2{
+    margin: 1%;
+    padding: 1%;
+    background-color:tomato;
+    text-align: center;
+    font-family: cursive;
+}
+
+#menu{
+    margin: 3%;
+    padding: 1%;
+    background-color:tomato;
+    border: solid rgb(1, 58, 58);
+    text-align: center;
+    font-family: cursive;
+}
+
+
+

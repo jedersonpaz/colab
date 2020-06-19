@@ -1,0 +1,47 @@
+
+/* Este es el css external*/
+
+.titulo{
+    text-align: center;
+    font-family: cursive;
+    font-size: 2em;         /*modificación tamaño de la letra*/
+    border:solid teal;
+    background-color: #FF6E03; /*agregando color con hexadecimal*/
+    color:white;
+    margin-top: 0.5%;
+
+}
+
+.subtitulo {
+    background-color: black;
+    margin: 0;
+    padding: 1%;
+}
+
+.imagen{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+
+.contenido{
+    background-color: teal;
+    color: white;
+    font-size: 2.2em;
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 4%;
+}
+
+.fondoEnlace{                               /*Acá se aplican estilos a los enlaces*/
+    background-color: #FF6E03;
+    color: white;
+    font-size: 2em;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
